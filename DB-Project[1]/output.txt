@@ -1,0 +1,24 @@
+k = 2, Sampling Size = 10000, input = points.txt
+User time : 0.302000 seconds
+System time : 302 milliseconds
+
+Time Taken for Algorithm: 
+User time : 0.034000 seconds
+System time : 34 milliseconds
+
+
+Memory used in bytes: 280144
+
+
+Average Regret Ratio: 0.041683
+Sample sd: 0.082295
+No within SD: 1561
+70% is : 0.000000
+80% is : 0.079504
+90% is : 0.185904
+99% is : 0.312425
+Minimum Regret Ratio of the file is : 0.336079
+Iterations Avoided : 0.000000
+Users Avoided : 7142.857143
+
+
